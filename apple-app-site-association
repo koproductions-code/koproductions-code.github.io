@@ -1,0 +1,21 @@
+{
+    "webcredentials": {
+        "apps": [ "W36QFKRBHM.com.koproductions.clothes" ]
+    },
+    "applinks": {
+        
+        "details": [
+            {
+              "appIDs": [ "W36QFKRBHM.com.koproductions.clothes"],
+              "components" : [
+                    {
+                        "/": "/*",
+                        "comment": "Matches any URL whose path starts with /"
+                    }
+                ]
+              
+            }
+        ]
+
+    }
+}
